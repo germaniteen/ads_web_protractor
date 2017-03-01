@@ -31,7 +31,7 @@ For instance, you have 10 TCs related to Advertisements Management feature, just
 * features/*.feature : cucumber features
 * features/step_definitions/*.js : generic steps that apply to all features
 * features/support/env.js : environment configurations
-* features/support/hook.rb : initializes scenarios, tears down scenarios
+* features/support/hook.js : initializes scenarios, tears down scenarios
 * features/pages : the pages which are related to automation tests
 
 ###*Prerequisites*
