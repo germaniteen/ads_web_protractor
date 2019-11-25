@@ -1,5 +1,7 @@
 # Advertisement Management
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/PeterNgTr/ads_web_protractor.svg)](https://greenkeeper.io/)
+
 Following are automation tests for the given user stories.
  * Write using Gherkin scenarios. - Done
  * Use protractor to execute your tests. - Done
